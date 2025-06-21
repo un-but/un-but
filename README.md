@@ -2,30 +2,37 @@
 
 ## About me
 I am a middle Python backend developer based in Russia with a passion for learning new things in the IT field. I am particularly interested in open-source software, Linux, and all things related to these areas.
+
 I strive to create automated solutions for various tasks that arise in my work. I would appreciate any assistance or advice you may be able to provide.
 
 ## 📚 My stack
 ### Languages
 <!-- ![Languages](https://skillicons.dev/icons?i=python,java,html,css,sqlite&theme=light) -->
 <p float="left">
-  <img src="assets/languages/python-svgrepo-com.svg" width="50" />
-  <img src="assets/languages/java-svgrepo-com.svg" width="50" />
-  <img src="assets/languages/sqlite-svgrepo-com.svg" width="50" />
-  <img src="assets/languages/html5-svgrepo-com.svg" width="50" />
-  <img src="assets/languages/css3-svgrepo-com.svg" width="50" />
+  <img src="assets/languages/python.svg" height="50" />
+  <img src="assets/languages/c.svg" height="50" />
+  <img src="assets/languages/java.svg" height="50" />
+  <img src="assets/languages/postgresql.svg" height="50" />
+  <img src="assets/languages/html5.svg" height="50" />
+  <img src="assets/languages/css3.svg" height="50" />
 </p>
 
 ### Dev tools
 <p float="left">
-  <img src="assets/devtools/aiogram.png" width="50" />
-  <img src="assets/devtools/selenium-svgrepo-com.svg" width="50" />
-  <img src="assets/devtools/aiohttp.svg" width="50" />
-  <img src="assets/devtools/git-svgrepo-com.svg" width="50" />
+  <img src="assets/devtools/fastapi.png" height="50" />
+  <img src="assets/devtools/aiogram.png" height="45" />
+  <img src="assets/devtools/sqlalchemy.svg" height="40" />
+  <img src="assets/devtools/playwright.svg" height="50" />
+  <img src="assets/devtools/aiohttp.svg" height="50" />
+  <img src="assets/devtools/selenium.svg" height="50" />
 </p>
 
 ### Software
 <p float="left">
-  <img src="assets/software/visual-studio-code-svgrepo-com.svg" width="50" />
-  <img src="assets/software/linux-svgrepo-com.svg" width="50" />
-  <img src="assets/software/github-svgrepo-com.svg" width="50" />
+  <img src="assets/software/linux.svg" height="50" />
+  <img src="assets/software/visual-studio-code.svg" height="50" />
+  <img src="assets/software/vim.svg" height="50" />
+  <img src="assets/software/git.svg" height="50" />
+  <img src="assets/software/github.svg" height="50" />
+  <img src="assets/software/nginx.svg" height="50" />
 </p>
