@@ -14,7 +14,7 @@ I strive to create automated solutions for various tasks that arise in my work. 
   <img src="assets/languages/postgresql.svg" height="50" alt="postgresql"/>
   <img src="assets/languages/html5.svg" height="50" alt="html"/>
   <img src="assets/languages/css3.svg" height="50" alt="css"/>
-</p>
+</div>
 
 ### Dev tools
 <div style="display: grid; grid-template-columns: repeat(auto-fill, 50px); gap: 10px;">
@@ -24,7 +24,7 @@ I strive to create automated solutions for various tasks that arise in my work. 
   <img src="assets/devtools/playwright.svg" height="50" alt="playwright"/>
   <img src="assets/devtools/aiohttp.svg" height="50" alt="aiohttp"/>
   <img src="assets/devtools/selenium.svg" height="50" alt="selenium"/>
-</p>
+</div>
 
 ### Software
 <div style="display: grid; grid-template-columns: repeat(auto-fill, 50px); gap: 10px;">
@@ -34,4 +34,4 @@ I strive to create automated solutions for various tasks that arise in my work. 
   <img src="assets/software/git.svg" height="50" alt="git"/>
   <img src="assets/software/github.svg" height="50" alt="github"/>
   <img src="assets/software/nginx.svg" height="50" alt="nginx"/>
-</p>
+</div>
