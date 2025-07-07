@@ -7,8 +7,7 @@ I strive to create automated solutions for various tasks that arise in my work. 
 
 ## 📚 My stack
 ### Languages
-<!-- ![Languages](https://skillicons.dev/icons?i=python,java,html,css,sqlite&theme=light) -->
-<p float="left">
+<div style="display: grid; grid-template-columns: repeat(auto-fill, 50px); gap: 10px;">
   <img src="assets/languages/python.svg" height="50" alt="python"/>
   <img src="assets/languages/c.svg" height="50" alt="c"/>
   <img src="assets/languages/java.svg" height="50" alt="java"/>
@@ -18,7 +17,7 @@ I strive to create automated solutions for various tasks that arise in my work. 
 </p>
 
 ### Dev tools
-<p float="left">
+<div style="display: grid; grid-template-columns: repeat(auto-fill, 50px); gap: 10px;">
   <img src="assets/devtools/fastapi.png" height="50" alt="fastapi"/>
   <img src="assets/devtools/aiogram.png" height="45" alt="aiogram"/>
   <img src="assets/devtools/sqlalchemy.svg" height="40" alt="sqlalchemy"/>
@@ -28,7 +27,7 @@ I strive to create automated solutions for various tasks that arise in my work. 
 </p>
 
 ### Software
-<p float="left">
+<div style="display: grid; grid-template-columns: repeat(auto-fill, 50px); gap: 10px;">
   <img src="assets/software/linux.svg" height="50" />
   <img src="assets/software/visual-studio-code.svg" height="50" alt="vs code"/>
   <img src="assets/software/vim.svg" height="50" alt="vim"/>
